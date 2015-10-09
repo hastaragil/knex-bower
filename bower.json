@@ -1,0 +1,31 @@
+{
+  "name": "knex-bower",
+  "main": "build/knex.js",
+  "version": "0.8.6",
+  "homepage": "https://github.com/knax/knex-bower",
+  "authors": [
+    "Hasta Ragil <npcmamaz@gmail.com>"
+  ],
+  "description": "knex bower",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "knex"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~3.10.1",
+    "bluebird": "~2.10.2"
+  }
+}
